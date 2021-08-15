@@ -1,0 +1,38 @@
+{
+    "name": "late-night",
+    "displayName": "Late Night Dark",
+    "publisher": "PizzaBoss",
+    "description": "Late Night Dark Theme for the boiz who are working around n' programming in the late dark night!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/PizzaBossXD/vscode-late-night-dark"
+    },
+    "keywords": [
+        "late",
+        "night",
+        "dark night",
+        "pizzaboss",
+        "pizzabossxd",
+        "pizzaboss late night",
+        "late night dark",
+        "night late",
+        "dark theme",
+        "vscode theme"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Late Night Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Late Night Dark-color-theme.json"
+            }
+        ]
+    }
+}
