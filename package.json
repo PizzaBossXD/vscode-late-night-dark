@@ -2,6 +2,7 @@
     "name": "late-night",
     "displayName": "Late Night Dark",
     "publisher": "PizzaBoss",
+    "icon": "./icons/icon.png",
     "description": "Late Night Dark Theme for the boiz who are working around n' programming in the late dark night!",
     "version": "0.0.1",
     "engines": {
